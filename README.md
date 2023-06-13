@@ -39,7 +39,15 @@ Tasks
 1) Plot a bar graph showing number of classes and no of examples in each class.
 2) Classification Task, classify a person as a 0 or 1 (Diabetic or Not) using K-Nearest Neighbors
 classifier.
-Download the training data set and submit your predictions as .csv for the Test cases given
-below
+**Assignment 4** - Air pollution
+Air Pollution is Rising!
+Predicting Pollution Levels using Machine Learning
+It is winter time in Delhi so Cody decided to go for a walk to the news stand and on reaching
+was surprised to see the air quality index of Delhi in the newspaper . So he decided to collect
+the air samples of different locations and then took these samples to his lab where he extracted
+five features of the air he collected which can be used to predict the air quality index and
+combined it with the air quality index given in the newspapers. You are provided with the data
+collected by Cody and your job is to design a machine learning model which given the features
+extracted by Cody can predict air quality.
 
 
