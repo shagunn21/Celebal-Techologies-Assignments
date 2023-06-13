@@ -39,6 +39,7 @@ Tasks
 1) Plot a bar graph showing number of classes and no of examples in each class.
 2) Classification Task, classify a person as a 0 or 1 (Diabetic or Not) using K-Nearest Neighbors
 classifier.
+
 **Assignment 4** - Air pollution
 Air Pollution is Rising!
 Predicting Pollution Levels using Machine Learning
